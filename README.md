@@ -1,4 +1,4 @@
-# Automation-Recoding-PC-specification-using-USB
+# Automation-Recording-PC-specification-using-USB
 
 1. To make sure the coding is worked, you need to download SamLogic USB Auto Creator to makes the python program is running automatically to record specification of the computer. You can download it from https://www.samlogic.net/demos/demos.htm . 
 
