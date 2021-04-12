@@ -1,0 +1,3 @@
+[AutoRun]
+OPEN=STARTDOC.EXE spec.py
+LABEL=- USB Flash Drive 210412 -
