@@ -1,11 +1,9 @@
 # import module
 import subprocess
 
-
+# naming filename with timestamp
 from datetime import datetime
 filename = f"Specification-{datetime.now():%Y-%m-%d %H-%M-%S}.txt"
-
-
 
 # traverse the info
 Id = subprocess.check_output(['systeminfo']).decode('utf-8').split('\n')
